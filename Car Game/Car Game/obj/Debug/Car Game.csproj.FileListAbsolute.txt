@@ -1,0 +1,17 @@
+D:\ProjectVS19\Car Game\Car Game\bin\Debug\Car Game.exe.config
+D:\ProjectVS19\Car Game\Car Game\bin\Debug\Car Game.exe
+D:\ProjectVS19\Car Game\Car Game\bin\Debug\Car Game.pdb
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Properties.Resources.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car Game.csproj.GenerateResource.cache
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car Game.csproj.CoreCompileInputs.cache
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car Game.exe
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car Game.pdb
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.test.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car Game.csprojAssemblyReference.cache
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Hard_Mode.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Hard_Speed_Mode.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Move_Mode.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Normal_Mode.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Modes.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Speed_Mode.resources
+D:\ProjectVS19\Car Game\Car Game\obj\Debug\Car_Game.Form_Hard_Move_Mode.resources
