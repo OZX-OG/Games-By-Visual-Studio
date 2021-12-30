@@ -1,0 +1,10 @@
+D:\vs17\project\desktop-app\learn english\learn english\bin\Debug\learn english.exe.config
+D:\vs17\project\desktop-app\learn english\learn english\bin\Debug\learn english.exe
+D:\vs17\project\desktop-app\learn english\learn english\bin\Debug\learn english.pdb
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn english.csprojAssemblyReference.cache
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn_english.Form1.resources
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn_english.Properties.Resources.resources
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn english.csproj.GenerateResource.cache
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn english.csproj.CoreCompileInputs.cache
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn english.exe
+D:\vs17\project\desktop-app\learn english\learn english\obj\Debug\learn english.pdb
